@@ -1,0 +1,10 @@
+   
+Ex1: (i) Inv. Distribution is not the right one
+(ii)-(iii) right (but you didn't overlay the histogram with the invariant distribution or plot the inv. distribution)
+(iv)-(v) Yes
+7/10
+
+Ex2: You rightly note that the MC is not irreducible in iii! But there convergence will _not_ happen. Also you can explicitly find the invariant distribution. 6/10
+
+
+Ex3: You are plotting the density in a region where one can't see anything of the true distribution (-1 to 1). The distribution is supported on a larger set, you need to experiment around/eyeball the function you are plotting to find a good area to plot. The histograms are missing. The function that you are plotting is not the posterior (the posterior is bimodal). The histograms are missing. 5/10

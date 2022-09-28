@@ -1,0 +1,5 @@
+Ex1: 10/10 - The RMSE calculation does not look right but everything up to there is fine. Also no need to compare the variance to the observations. These are two different quantities, there is not reason for them to be similar.
+
+Ex2: 0 Missing
+
+Ex3: It would have been fine to use the numpy histogram function with the weighted option instead of calculating the weight cdf on your own (which makes it more complicated). In the pseudocode it is important to say where x is from. You define the subfunctions with dependence on x, but do not pass in x into them. 8/10

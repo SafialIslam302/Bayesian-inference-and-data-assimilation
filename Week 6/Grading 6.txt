@@ -1,0 +1,5 @@
+Ex1: 5/10 Only calculated one Wasserstein distance, and it is wrong (its 2/sqrt(n))
+
+Ex2: 6/10 - why is the variance of the sum the sum of the variances? Also in iii, the plots of the theoretical estimate and the numerical variance should align pretty well.
+
+Ex3: 7/10 - whats the variance of the estimator in iii?

@@ -1,0 +1,7 @@
+Ex1: -2 since iii is wrong, -4 since iv is missing. 4/10
+
+Ex2: 10/10
+
+Ex3: most of the code is still from last years sample solution and not even updated to reflect the changes made in this year. Also, pseudocode is missing, 1/10
+
+15/30

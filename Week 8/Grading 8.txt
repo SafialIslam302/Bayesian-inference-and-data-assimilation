@@ -1,0 +1,5 @@
+Ex1: 1/10 You were specifically asked not to prove it in this way 
+
+Ex2: 10/10
+
+Ex3: I don't really get what happens here. It looks like you started the simulations at x=4, instead of x=1 as asked for in the task? In that case the histograms should develop kind of symmetrically around x=4 from the beginning on. But for some reason they first move to the right and the nto the left? But the final histogram looks good. The mean plot is right, allthough it would have been interesting to see it to T=100! (to see how it goes back to the right mean, 4). The variance plot is wrong, the variance of the histograms is obviously larger than 0.01! In the final exercise you can be more specific about what the probability is to get an animal larger than 6 (it is the amount of samples larger than 6 at time T=100). Overall: 6.5/10

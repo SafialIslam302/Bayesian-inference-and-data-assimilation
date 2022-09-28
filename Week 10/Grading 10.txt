@@ -1,0 +1,7 @@
+Ex1: 6/10 - The solutions are not right. Also, [0, 1] P [0, 1]^T is equal to P_{22} (the number), not to P. Furthermore,
+1/P is not well defined, since P is a matrix! You can only write P^{-1}. It also is not clear what you mean by P + R,
+since P is a matrix and R is a number. (Do you add R to every entry? Only to the diagonal?)
+
+Ex2: 5/10 - You got the wrong MAP for the laplace approximation (mb because you used a stepwidth of 1 for gradient descent?)
+
+Ex3: 10/10

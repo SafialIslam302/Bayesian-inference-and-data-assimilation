@@ -1,0 +1,13 @@
+Ex1: 8/10 - Convergence to its stationary distribution needs some more conditions and can be shown theoretically in this case
+
+Ex2: (i) error in the implementation, the plots do not look right
+(ii) The task is to describe the behaviour of x(t) depending of f(x(t))
+(iii)don't know what is happening here
+(iv) yes
+
+3/10
+
+Ex3: (i) the distribution of x_2 is not right
+1/10
+
+12/30
